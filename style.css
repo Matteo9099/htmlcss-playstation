@@ -1,4 +1,4 @@
-.ms__width__50{
+.ms__width__60{
     max-width: 60px;
 }
 
@@ -6,4 +6,8 @@
     color: #000;
     vertical-align: middle;
     margin-left: 20px;
+}
+
+.ms__width__50p{
+    max-width: 50%
 }
