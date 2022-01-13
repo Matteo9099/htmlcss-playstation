@@ -16,6 +16,10 @@
     max-width: 100%;
 }
 
+.ms__width__80p{
+    max-width: 80%;
+}
+
 .ms__width__200{
     max-width: 200px;
 }
@@ -33,5 +37,9 @@
 }
 
 #plus{
-    background-color: rgb(185, 185, 180);
+    background-color: rgb(170, 170, 168);
+}
+
+.ms__bg__blue{
+    background-color: rgb(3, 3, 56);
 }
