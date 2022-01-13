@@ -16,6 +16,22 @@
     max-width: 100%;
 }
 
+.ms__width__200{
+    max-width: 200px;
+}
+
+.ms__width__25p{
+    max-width: 25%;
+}
+
 .ms__text__card{
     font-size: 18px;
+}
+
+#takes-two{
+    background-color: rgb(32, 32, 32);
+}
+
+#plus{
+    background-color: rgb(185, 185, 180);
 }
