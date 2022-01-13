@@ -11,3 +11,7 @@
 .ms__width__50p{
     max-width: 50%
 }
+
+.ms__width__100p{
+    max-width: 100%;
+}
