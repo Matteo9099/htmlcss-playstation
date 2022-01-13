@@ -8,6 +8,10 @@
     margin-left: 20px;
 }
 
+main{
+    padding-top: 100px;
+}
+
 .ms__jumbotron__text{
     position: absolute;
     bottom: 1.25rem;
@@ -16,6 +20,10 @@
     padding-bottom: 1.25rem;
     color: #fff;
     text-align: center;
+}
+
+.ms__color__gray{
+    color: rgb(163, 161, 161);
 }
 
 .ms__width__50p{
