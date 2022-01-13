@@ -8,6 +8,16 @@
     margin-left: 20px;
 }
 
+.ms__jumbotron__text{
+    position: absolute;
+    bottom: 1.25rem;
+    left: 5%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+
 .ms__width__50p{
     max-width: 50%
 }
