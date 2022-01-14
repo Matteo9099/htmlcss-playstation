@@ -12,14 +12,20 @@ main{
     padding-top: 100px;
 }
 
-.ms__jumbotron__text{
-    position: absolute;
-    bottom: 1.25rem;
-    left: 5%;
-    padding-top: 1.25rem;
-    padding-bottom: 1.25rem;
-    color: #fff;
-    text-align: center;
+.jumbotron{
+    background-image: url('img/jumbo-bg.png');
+    background-position: center;
+    background-size: cover;
+    min-height: 500px;
+    width: 100%;
+}
+
+.takes{
+    background-image: url('img/it-takes-two-hero-banner-desktop.jpg');
+    background-position: center;
+    background-size: cover;
+    min-height: 500px;
+    width: 100%;
 }
 
 .ms__color__gray{
