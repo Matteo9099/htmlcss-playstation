@@ -8,6 +8,10 @@
     margin-left: 20px;
 }
 
+.ms__width__ul__100{
+    width: 100%;
+}
+
 main{
     padding-top: 100px;
 }
