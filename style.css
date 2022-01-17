@@ -87,7 +87,7 @@ footer{
 }
 
 .move:hover{
-    transition: 0.5s;
+    transition: 0.3s;
     padding-top: 10px;
     cursor: pointer;
 }
