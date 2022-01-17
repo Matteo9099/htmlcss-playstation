@@ -8,6 +8,11 @@
     margin-left: 20px;
 }
 
+.bi-circle-fill{
+    font-size: 10px;
+    color: blue;
+}
+
 .ms__width__ul__100{
     width: 100%;
 }
