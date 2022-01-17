@@ -85,3 +85,9 @@ footer{
     opacity: 1!important;
     cursor: pointer;
 }
+
+.move:hover{
+    transition: 0.5s;
+    padding-top: 10px;
+    cursor: pointer;
+}
