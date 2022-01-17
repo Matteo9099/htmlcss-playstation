@@ -80,3 +80,8 @@ footer{
 .ms__footer__width__globe{
     max-width: 20px;
 }
+
+.hov:hover, .hov:hover .line{
+    opacity: 1!important;
+    cursor: pointer;
+}
